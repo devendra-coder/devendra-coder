@@ -1,112 +1,101 @@
 # 👋 Hi, I’m **Devendra Singh**  
-_Data Enthusiast | SQL • Python • Excel • Power BI_
+_Data Analyst | SQL • Python • Excel • Power BI_
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3a7bd5,100:00d2ff&height=130&section=header&text=Devendra%20Singh%20%7C%20Data%20Analyst&fontSize=32&fontColor=ffffff)
-
-Welcome to my GitHub corner!  
-I’m a **data-driven problem solver** who thrives on turning raw information into clear, actionable insights.  
-From exploring millions of rows in SQL to designing dashboards in Power BI, I enjoy creating data stories that empower decision-making.  
-This space captures my journey — learning, experimenting, and building projects that make data meaningful.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3e1f92,100:7f5eff&height=180&section=header&text=Devendra%20Singh%20%7C%20Data%20Analyst&fontSize=34&fontAlignY=35&fontColor=ffffff)
 
 ---
 
-## 🚀 Featured Projects  
+## 🌐 Portfolio  
+A clean, modern site showcasing my work — built with React + Tailwind.
+
+### 🔗 **https://devendra-coder.github.io/portfolio**
+
+![Portfolio Button](https://img.shields.io/badge/Visit%20Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 About Me  
+I analyze data, build models, and create dashboards that turn information into decisions.  
+Most of my work revolves around:
+
+- SQL for deep data querying  
+- Power BI for storytelling and dashboards  
+- Python (Pandas) for cleaning and automation  
+- Excel for fast analytics and modeling  
+
+I enjoy simplifying complex datasets and designing systems that make insights obvious.
+
+---
+
+## 🔥 Featured Projects  
 
 | Project | Description | Link |
-|----------|-------------|------|
-| **Excel-Job-Salary-Calculator** | Interactive Excel dashboard estimating salaries across job roles, countries, and platforms — ideal for benchmarking and planning. | [🔗 View on GitHub](https://github.com/devendra-coder/excel-job-salary-calculator) |
-| **Data-Jobs-Dashboard** | A Power BI dashboard visualizing **global job trends in 2024** — salaries, roles, skills, and demand across regions. | [🔗 View on GitHub](https://github.com/devendra-coder/data-jobs-dashboard) |
-| **SQL-Data-Analytics-Project** | SQL-based analytics project demonstrating KPI tracking, aggregations, and insight generation. | [🔗 View on GitHub](https://github.com/devendra-coder/sql-data-analytics-project) |
-| **SQL-Data-Warehouse-Project** | Designed and built a complete data warehouse using a star/snowflake schema and ETL logic. | [🔗 View on GitHub](https://github.com/devendra-coder/sql-data-warehouse-project) |
-| **Data-Jobs** | Curated dataset and notebooks exploring the data-job market — roles, platforms, salaries, and trends. | [🔗 View on GitHub](https://github.com/devendra-coder/data-jobs) |
-| **Front-End-Projects** | Lightweight web apps and dashboards that combine analytics with interactivity and design. | [🔗 View on GitHub](https://github.com/devendra-coder/front-end-projects) |
+|--------|-------------|------|
+| **Excel-Job-Salary-Calculator** | Salary estimator dashboard across roles, countries, experience levels. | [GitHub](https://github.com/devendra-coder/excel-job-salary-calculator) |
+| **Data-Jobs-Dashboard** | Power BI dashboard on global data job trends, skills, and salaries. | [GitHub](https://github.com/devendra-coder/data-jobs-dashboard) |
+| **SQL-Data-Analytics-Project** | KPI tracking, medallion architecture, and advanced transformations. | [GitHub](https://github.com/devendra-coder/sql-data-analytics-project) |
+| **SQL-Data-Warehouse-Project** | End-to-end DWH with star schema + ETL design. | [GitHub](https://github.com/devendra-coder/sql-data-warehouse-project) |
+| **Data-Jobs (Dataset + EDA)** | Cleaned dataset and Python EDA workflows for job market analysis. | [GitHub](https://github.com/devendra-coder/data-jobs) |
+| **Front-End-Projects** | Interactive UI components and small apps. | [GitHub](https://github.com/devendra-coder/front-end-projects) |
 
 ---
 
-## 💼 What I Do  
+## 🧰 Toolset  
+**Languages & Analysis**
 
-- 🧩 **Data Analysis:** Transform raw datasets into actionable insights using SQL, Excel, and Power BI.  
-- 🧠 **Data Modeling:** Design normalized models, star schemas, and relationships that power effective reporting.  
-- 📊 **Visualization:** Build dashboards that tell compelling data stories with clarity and impact.  
-- ⚙️ **Automation:** Use Python to clean, merge, and automate data workflows.  
-- 📈 **Business Reporting:** Deliver insights aligned with KPIs and performance metrics for stakeholders.  
+![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A3A3A?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-3A3A3A?style=for-the-badge&logo=powerbi&logoColor=gold)
+![Excel](https://img.shields.io/badge/Excel-3A3A3A?style=for-the-badge&logo=microsoft-excel&logoColor=green)
 
----
+**Web & UI**
 
-## 🧰 Tools I Use  
+![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS-3A3A3A?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-3A3A3A?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-| Category | Tools |
-|-----------|-------|
-| **Data Analysis & Reporting** | Power BI, Excel, Google Sheets |
-| **Data Querying & Warehousing** | SQL Server, MySQL, PostgreSQL |
-| **Data Cleaning & Transformation** | Power Query, Python (Pandas) |
-| **Visualization & Storytelling** | Power BI, Matplotlib, Seaborn |
-| **Version Control & Collaboration** | Git, GitHub |
-| **Other Skills** | DAX, ETL design, performance tuning |
+**Versioning**
 
----
-
-## ⚡ Tech Snapshot  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 🧠 Learning & Growth  
-
-Right now, I’m focused on:  
-- 📊 Building advanced **Power BI dashboards** that connect to cloud data sources.  
-- 🐍 Strengthening **Python for data analytics**, automation, and integration.  
-- ☁️ Exploring **Azure Data Fundamentals** and real-time data pipelines.  
-- 🧮 Sharpening DAX and SQL window functions for complex KPI logic.  
-
-I believe learning never stops — each project is an experiment that teaches something new.
+![Git](https://img.shields.io/badge/Git-3A3A3A?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendra-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-coder&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=devendra-coder&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7f5eff&title_color=7f5eff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-coder&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌱 What I'm Improving  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devendra-singh-adhikari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:devendras162002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/devendra-coder">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Advanced Power BI modeling  
+- Python scripting for analytics  
+- Azure fundamentals  
+- Efficient SQL for large datasets  
 
 ---
 
-## 🌱 Fun Facts  
+## 🔗 Connect With Me  
 
-- I prefer late-night coding sessions — that’s when ideas click.  
-- My dashboards always start with “why” before “how.”  
-- I’ve broken (and fixed) more Power BI relationships than I can count.  
-- I think of SQL queries as puzzles — there’s always a cleaner way to solve them.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7f5eff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-singh-adhikari/)  
+[![Email](https://img.shields.io/badge/Email-3e1f92?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendras162002@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-0b0f17?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devendra-coder)
 
 ---
 
-⭐ **Thanks for stopping by!**  
-If you’re working on data, analytics, or visualization, let’s connect — I’d love to collaborate or learn together.  
+## ⚡ Fun Stuff  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=100&section=footer)
+- Late-night sessions = best sessions  
+- Love cleaning messy datasets  
+- Always chasing more aesthetic dashboards  
+- SQL puzzles beat regular puzzles  
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7f5eff,100:3e1f92&height=120&section=footer)
